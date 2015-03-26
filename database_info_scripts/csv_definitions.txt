@@ -1,0 +1,24 @@
+user.csv
+every row is a different tuple
+UserID[UXXXXXXXX] (a U and 8 numbers right after), email[no spaces], username[no spaces], age[INT], gender[M/F], password[no spaces] 
+
+receipt.csv
+ReceiptID [RXXXXXXXX] (a R and 8 numbers right after), timeDate[must look up how the SQl standard does it], preTaxPrice[double], totalPrice[double]
+
+product.csv
+ProductID [PXXXXXXXX] (a P and 8 numbers right after), name[string], brand[string]
+
+store.csv
+StoreID [SXXXXXXXX] (a S and 8 numbers right after), name[string], location[string]
+
+userHasReceipt.csv
+userID, ReceiptID
+
+receiptContainsProduct.csv
+ReceiptID, productID, quantity, price
+
+productSoldAt.csv
+productID, storeID
+
+receiptFromStore.csv
+receiptID, storeID
