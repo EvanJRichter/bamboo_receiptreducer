@@ -30,11 +30,11 @@ a, a:hover, a:focus {
 }
 ::selection {
 
-    background: #FF6C60;
+    background: #23C362;
     color: #fff;
 }
 ::-moz-selection {
-    background: #FF6C60;
+    background: #23C362;
     color: #fff;
 }
 
@@ -254,7 +254,7 @@ ul.sidebar-menu li ul.sub li a {
 }
 
 ul.sidebar-menu li ul.sub li a:hover, ul.sidebar-menu li ul.sub li.active a {
-    color: #FF6C60;
+    color: #23C362;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
@@ -313,11 +313,11 @@ ul.sidebar-menu li a i {
 }
 
 ul.sidebar-menu li a:hover i, ul.sidebar-menu li a:focus i {
-    color: #FF6C60;
+    color: #23C362;
 }
 
 ul.sidebar-menu li a.active i {
-    color: #FF6C60;
+    color: #23C362;
 }
 
 
@@ -370,7 +370,7 @@ a.logo:hover, a.logo:focus {
 }
 
 a.logo span {
-    color: #FF6C60;
+    color: #23C362;
 }
 
 
@@ -454,7 +454,7 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
 }
 
 .dropdown-menu.extended li p.red {
-    background-color: #ff6c60;
+    background-color: #23C362;
     color: #fff;
 }
 
@@ -663,9 +663,9 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
     border-top-color: #FCB322 !important;
 }
 .notify-arrow-red {
-    border-color: transparent transparent #ff6c60;
-    border-bottom-color: #ff6c60 !important;
-    border-top-color: #ff6c60 !important;
+    border-color: transparent transparent #23C362;
+    border-bottom-color: #23C362 !important;
+    border-top-color: #23C362 !important;
 }
 .notify-arrow-green {
     border-color: transparent transparent #a9d86e;
@@ -777,7 +777,7 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
 }
 
 .state-overview .red {
-    background: #ff6c60;
+    background: #23C362;
 }
 
 .state-overview .yellow {
@@ -1064,7 +1064,7 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
 }
 
 .badge.bg-important {
-    background: #ff6c60;
+    background: #23C362;
 }
 
 .badge.bg-info {
@@ -1318,7 +1318,7 @@ h3.timeline-title {
 /*---revenue----*/
 
 .revenue-head {
-    background: #ff6c60;
+    background: #23C362;
     -webkit-border-radius: 4px 4px 0px 0px;
     border-radius: 4px 4px 0px 0px;
     color: #fff;
@@ -1376,7 +1376,7 @@ h3.timeline-title {
 }
 
 .chart-info .increase {
-    background: #ff6c60;
+    background: #23C362;
     width: 10px;
     height: 10px;
 }
@@ -1449,7 +1449,7 @@ h3.timeline-title {
     font-size: 16px;
 }
 .panel-footer.revenue-foot ul li a:hover i, .panel-footer.revenue-foot ul li.active a i {
-    color: #ff6c60;
+    color: #23C362;
     display: block;
     font-size: 16px;
 }
@@ -1978,7 +1978,7 @@ a.mail-dropdown {
 }
 
 .btn-compose {
-    background: #ff6c60;
+    background: #23C362;
     padding: 12px 0;
     text-align: center;
     width: 100%;
@@ -2234,7 +2234,7 @@ ul.inbox-pagination li {
 }
 
 .view-mail a {
-    color: #FF6C60;
+    color: #23C362;
 }
 
 .attachment-mail {
@@ -2844,7 +2844,7 @@ ul.amounts li {
 
 .fc-state-active, .fc-state-active .fc-button-inner,
 .fc-state-hover, .fc-state-hover .fc-button-inner{
-    background:  #FF6C60 !important;
+    background:  #23C362 !important;
     color: #fff !important;
 }
 
@@ -3030,7 +3030,7 @@ ul.amounts li {
 }
 
 .carousel-indicators .active {
-    background:#ff6c60;
+    background:#23C362;
     height: 10px;
     margin: 1px;
     width: 10px;
@@ -4489,7 +4489,7 @@ tr.odd.gradeX td.sorting_1, tr.even.gradeX td.sorting_1, table.display tr.even.g
 }
 
 .ui-sortable li.list-danger {
-    border-left: 3px solid #FF6C60;
+    border-left: 3px solid #23C362;
 }
 
 .ui-sortable li.list-warning {
@@ -5138,7 +5138,7 @@ tr.odd.gradeX td.sorting_1, tr.even.gradeX td.sorting_1, table.display tr.even.g
 }
 
 .recent-highlight {
-    background: #FF6C60 !important;
+    background: #23C362 !important;
 }
 
 
@@ -5529,7 +5529,7 @@ a.guest-on i {
 .sb-slidebar .side-title {
     padding: 10px 15px;
     text-transform: uppercase;
-    color: #FF6C60;
+    color: #23C362;
 }
 
 .sb-toggle-right {
@@ -5625,7 +5625,7 @@ a.guest-on i {
 }
 
 .p-task .external a:hover {
- color:#FF6C60;
+ color:#23C362;
 }
 
 
@@ -5660,7 +5660,7 @@ a.guest-on i {
 }
 
 .directory-list li a:hover, .directory-info-row .social-links li a:hover {
-    background:#ff6c60;
+    background:#23C362;
     color: #fff;
 }
 
@@ -5727,7 +5727,7 @@ a.guest-on i {
 }
 .mega-menu ul li a:hover,
 .mega-menu ul li a:focus{
-    color:#ff6c60;
+    color:#23C362;
     background-color: #fff;
 }
 
@@ -5880,8 +5880,8 @@ a.guest-on i {
 }
 
 .p-tag-list li a:hover {
-    background: #ff6c60;
-    border-color: #ff6c60;
+    background: #23C362;
+    border-color: #23C362;
     color:#fff;
 }
 
