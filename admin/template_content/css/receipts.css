@@ -1,21 +1,57 @@
 .receipt_holder{
     background-color: #FFF;
     margin: 0.1%;
+    padding: 5%;
     border: 1px solid #ababab;
-    border-radius: 10px;
+    border-radius: 5px;
+
 }
 .receipt_store{
-
+	font-size: 24px;
+    font-weight: bold;
+    text-align: center;
 }
 .receipt_location{
-
+    text-align: center;
+    margin: 0%;
 }
 .receipt_date{
-
+    text-align: center;
+    margin-bottom: 5%;
 }
 .receipt_products{
-
+	text-align: right;
 }
 .receipt_price{
-    
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
+    margin-bottom: 2%;
 }
+
+.receipt_button{
+	padding: 2%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	width: 40%;
+}
+
+#edit_button{
+	margin-left: 7%;
+	margin-right: 2%;
+}
+#delete_button{
+	margin-left: 2%;
+	margin-right: 4%;
+}
+
+
+
+
+
+
+
+
+
+
+
