@@ -1,0 +1,78 @@
+<html>
+<head>
+    <title>Bamboo</title>
+</head>
+<body>
+<script src="addInput.js" language="Javascript" type="text/javascript"></script>
+<h1>We are Bamboo, the handiest/deadliest receipt reducer ever!</h1>
+
+<p>by Dana Nikolaeva, Evan Richter, Meera Parat</p>
+
+<p></p>
+
+<h3>Search Products</h3> 
+	    <p>Enter the name of a product</p> 
+	    <form  method="post" action="search.php?go"  id="searchform"> 
+	      <input  type="text" name="name"> 
+	      <input  type="submit" name="submit" value="Search"> 
+	    </form> 
+
+<p></p>
+
+<h3>Add Product</h3> 
+<form method="post" action="add.php?go">
+<div>Name<br>
+	<input name="add_product_name" type="text" id="add_product_name"></td>
+</div>
+<br>
+<div>Brand<br>
+	<input name="add_product_brand" type="text" id="add_product_brand"></td>
+</div>
+<br>
+<input  type="submit" name="add_product" value="Add"> 
+</form>
+<!--
+<h3>Add Receipt</h3> 
+<form method="post" action="<add.php?go>">
+
+<div>Username<br>
+<input name="username" type="text" id="add_username"></td>
+</div>
+
+<div>Location<br>
+<input name="location" type="text" id="add_location"></td>
+</div>
+<div>Time and Date (in the following format YYYY-MM-DDTHH:MM:SS)<br>
+<input name="time" type="text" id="add_time"></td>
+<div>
+<td width="100">Pre-tax Price</td>
+<td><input name="price_pretax" type="text" id="add_pretax"></td>
+</tr>
+<tr>
+<td width="100">Pre-tax Price</td>
+<td><input name="price_pretax" type="text" id="add_pretax"></td>
+</tr>
+
+<tr id="dynamicInput">
+<td width="100">Product Name</td>
+<td><input name="price_pretax" type="text" id="add_pretax"></td>
+</tr>
+<input type="button" value="Add another text input" onClick="addInput('dynamicInput');">
+
+
+
+<tr>
+<td width="100"> </td>
+<td> </td>
+</tr>
+<tr>
+<td width="100"> </td>
+<td>
+<input name="add" type="submit" id="add" value="Add Employee">
+</td>
+</tr>
+</table>
+</form>
+-->
+</body>
+</html>
