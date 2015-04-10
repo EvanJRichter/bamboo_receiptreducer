@@ -30,10 +30,13 @@
 }
 
 .receipt_button{
-	padding: 2%;
-	margin-top: 5%;
-	margin-bottom: 5%;
 	width: 40%;
+    background: #FFC107;
+    border-radius: 6px;
+    border: none !important;
+    color: #FFF;
+    font-weight: bold;
+
 }
 
 #edit_button{
@@ -45,13 +48,8 @@
 	margin-right: 4%;
 }
 
+#receipt_search{
+    /*border: 2px solid #FFC107 !important;*/
+    margin-top: 0px !important;
 
-
-
-
-
-
-
-
-
-
+}

@@ -1,1 +1,25 @@
+.float_right{
+    float: right;
+}
+.float_left{
+    float: left
+}
+.body_header{
+    padding: 15px;
 
+}
+.body_receipts{
+    padding: 15px;
+
+}
+#add_button{
+    height: 35px;
+    width: 250px;
+
+
+}
+.body_title{
+    font-size: 20pt;
+    text-align: center;
+    padding: 5px;
+}

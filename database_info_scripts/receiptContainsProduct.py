@@ -37,8 +37,8 @@ for receipt_counter in range (total_receipts):
 		total_price = '%.2f' % total_price
 	
 		#Write to file
-		file.write ('R' + str(receipt_ID) + ';' )
-		file.write ('P' + str(product_ID) + ';' )
+		file.write ( str(receipt_ID) + ';' )
+		file.write ( str(product_ID) + ';' )
 		file.write ( str(total_quantity) + ';' )
 		file.write ( str(total_price) + '\n')
 
